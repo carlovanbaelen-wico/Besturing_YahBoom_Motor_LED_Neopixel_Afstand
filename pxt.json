@@ -1,5 +1,6 @@
 {
     "name": "RC_kleuren_Afstand",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
