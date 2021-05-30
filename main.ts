@@ -33,7 +33,7 @@ radio.onReceivedNumberDeprecated(function (receivedNumber) {
         Color.showColor(neopixel.colors(NeoPixelColors.Red))
     }
     if (item == 6) {
-        Color.showColor(neopixel.colors(NeoPixelColors.Green))
+        Color.showColor(neopixel.colors(NeoPixelColors.White))
     }
     if (item == 7) {
         Color.showColor(neopixel.colors(NeoPixelColors.Yellow))
