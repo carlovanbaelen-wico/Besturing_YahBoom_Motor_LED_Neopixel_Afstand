@@ -47,5 +47,6 @@ radio.onReceivedNumberDeprecated(function (receivedNumber) {
 })
 let item = 0
 let Color: neopixel.Strip = null
+led.plot(2, 0)
 radio.setGroup(1)
 Color = neopixel.create(DigitalPin.P15, 4, NeoPixelMode.RGB)
